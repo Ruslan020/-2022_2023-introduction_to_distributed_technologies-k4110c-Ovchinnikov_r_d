@@ -8,7 +8,7 @@ Lab: Lab1
 Date of create: 29.11.2022
 Date of finished: 00.00.2022
 
-#Ход работы
+# Ход работы
 
 1) После установки docker и minikube был развернут minikube cluster:
 ![Screenshot_1](https://user-images.githubusercontent.com/79364379/204817030-bd27bc53-e2cf-42ed-8fc8-dccd0a1459a5.png)
