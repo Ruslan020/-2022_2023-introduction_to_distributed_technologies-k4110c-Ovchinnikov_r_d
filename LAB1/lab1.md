@@ -17,6 +17,7 @@ Date of finished: 00.00.2022
 ![vault](https://user-images.githubusercontent.com/79364379/204817815-e4cbcb12-57b8-44e1-b29f-7944544deb11.png)
 
 3) Создан сервис для доступа к контейнеру:
+
 ![vault](https://user-images.githubusercontent.com/79364379/204818334-3ee8e5c4-621a-4479-b2ae-5f59f5a77aaf.png)
 
 4) Проброшен 8200 порт командой "minikube kubectl -- port-forward service/vault 8200:8200"
