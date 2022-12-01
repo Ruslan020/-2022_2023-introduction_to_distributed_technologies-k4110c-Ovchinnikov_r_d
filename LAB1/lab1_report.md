@@ -16,8 +16,10 @@ Date of finished: 00.00.2022
 2) Создан под vault по образу HashiCorp Vault (файл yaml приложен в папке лабораторной):
 ![vault](https://user-images.githubusercontent.com/79364379/204817815-e4cbcb12-57b8-44e1-b29f-7944544deb11.png)
 
-4) Проброшен 8200 порт командой "minikube kubectl -- port-forward service/vault 8200:8200"
+3) Создан сервис для доступа к vault
 ![podExpose](https://user-images.githubusercontent.com/79364379/205054462-0a991212-9e8c-4284-b003-61a33cfb52c3.png)
+
+4) Проброшен 8200 порт командой "minikube kubectl -- port-forward service/vault 8200:8200"
 
 5) Заходим в vault по ссылке "http://localhost:8200". Токен для входа берем в логах vault:
 ![vaultLogs](https://user-images.githubusercontent.com/79364379/204819525-a9b0d923-4bce-4725-be4a-ebb28dae1418.png)
