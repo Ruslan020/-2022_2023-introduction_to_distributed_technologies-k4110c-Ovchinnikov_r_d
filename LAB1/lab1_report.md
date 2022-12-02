@@ -6,7 +6,7 @@ Group: K4110c
 Author: Ovchinnikov Ruslan Dmitrievich
 Lab: Lab1
 Date of create: 29.11.2022
-Date of finished: 00.00.2022
+Date of finished: 00.12.2022
 
 # Ход работы
 
