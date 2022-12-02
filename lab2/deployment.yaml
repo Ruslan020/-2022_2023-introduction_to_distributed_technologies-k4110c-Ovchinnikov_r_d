@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ifilyaninitmo
+  labels:
+    app: ifilyaninitmo
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ifilyaninitmo-rep
+  template:
+    metadata:
+      labels:
+        app: ifilyaninitmo-rep
+    spec:
+      containers:
+      - name: nginx
+        image: ifilyaninitmo/itdt-contained-frontend:master
+        env:
+        - name: REACT_APP_USERNAME
+          value: Ruslan_react_app
+        - name: REACT_APP_COMPANY_NAME
+          value: Itmo_react_app
+        ports:
+        - containerPort: 3000
