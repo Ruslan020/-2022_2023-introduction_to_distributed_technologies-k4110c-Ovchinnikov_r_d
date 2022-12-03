@@ -26,6 +26,6 @@ Date of finished: 00.12.2022
 ![Enter](https://user-images.githubusercontent.com/79364379/204819764-5272ece1-afaf-4bd5-a081-d6b8557cc06c.png)
 
 6) Схема контейеров и сервисов:
-![image](https://user-images.githubusercontent.com/79364379/205450657-8e708cbc-caf6-4255-b4d4-7d42aa0ee4db.png)
+ ![image](https://user-images.githubusercontent.com/79364379/205450657-8e708cbc-caf6-4255-b4d4-7d42aa0ee4db.png)
 
 
