@@ -25,3 +25,7 @@ Date of finished: 00.12.2022
 ![image](https://user-images.githubusercontent.com/79364379/206776810-cb6d0959-73a6-4fc2-a594-34ce890f5867.png)
 
 5) Создаем TSL сертификат
+Предварительно установив mkcert
+![image](https://user-images.githubusercontent.com/79364379/206779063-c676c1e3-6f66-4820-92d4-820c29ab5f96.png)
+![image](https://user-images.githubusercontent.com/79364379/206782175-a25d7421-f90d-4a91-aed9-8c0debbdf308.png)
+
