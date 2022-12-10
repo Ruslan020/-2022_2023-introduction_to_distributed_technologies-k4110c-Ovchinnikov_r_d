@@ -34,3 +34,19 @@ Date of finished: 00.12.2022
 ![image](https://user-images.githubusercontent.com/79364379/206779063-c676c1e3-6f66-4820-92d4-820c29ab5f96.png)
 ![image](https://user-images.githubusercontent.com/79364379/206782175-a25d7421-f90d-4a91-aed9-8c0debbdf308.png)
 
+6) Создаем ingress в minikube
+
+![image](https://user-images.githubusercontent.com/79364379/206855860-b056a613-7adc-41d9-8124-42ec12d5b495.png)
+![image](https://user-images.githubusercontent.com/79364379/206855863-5b6dcb66-ef33-4539-9c09-c1c609189bab.png)
+
+7) Запускаем тунель minikube
+
+![image](https://user-images.githubusercontent.com/79364379/206857781-5c24fa67-ebee-4d74-ad50-5467c58af6a6.png)
+
+8) Далее (после редактирования файла hosts) смотрим результат
+
+![image](https://user-images.githubusercontent.com/79364379/206857823-b285c127-2ccf-478e-b17b-ab2d580a41bf.png)
+
+
+
+
