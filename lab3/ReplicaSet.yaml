@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+  name: ifilyaninitmo-rs
+  labels:
+    app: ifilyaninitmo
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: ifilyaninitmo
+  template:
+    metadata:
+      labels:
+        app: ifilyaninitmo
+    spec:
+      containers:
+        - name: itdt-contained-frontend
+          image: ifilyaninitmo/itdt-contained-frontend:master
+          ports:
+            - containerPort: 3000
+              name: http
+          envFrom:
+            - configMapRef:
+                name: ruslan-cm

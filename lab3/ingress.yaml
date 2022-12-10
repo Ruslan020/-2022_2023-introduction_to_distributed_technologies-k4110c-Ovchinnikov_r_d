@@ -1,0 +1,20 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+ name: ingress
+spec:
+ rules:
+   - host: lab3.com
+     http:
+       paths:
+         - backend:
+             service:
+               name: ruslan-serv
+               port:
+                 number: 3000
+           path: /
+           pathType: Prefix
+ tls:
+   - hosts:
+       - lab3.com
+     secretName: tlscret

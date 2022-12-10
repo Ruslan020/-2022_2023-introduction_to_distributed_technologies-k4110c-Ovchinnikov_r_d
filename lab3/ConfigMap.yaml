@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: ruslan-cm
+data:
+  REACT_APP_USERNAME: ovchinnikovRD
+  REACT_APP_COMPANY_NAME: intmoCompany
