@@ -52,6 +52,9 @@ Date of finished: 00.12.2022
 
 ![image](https://user-images.githubusercontent.com/79364379/206857823-b285c127-2ccf-478e-b17b-ab2d580a41bf.png)
 
+9) Схема
+
+![image](https://user-images.githubusercontent.com/79364379/206858179-5d5a54ec-c15b-4e67-8e88-2fb2e8a2e217.png)
 
 
 
