@@ -18,7 +18,7 @@
 
 5. Создаем ip пул с помощью IPpoll.yaml
 
-![image](https://user-images.githubusercontent.com/79364379/209168079-80f63dae-edd5-4d06-a9a1-3c0a3350e1e1.png)
+![image](https://user-images.githubusercontent.com/79364379/209170131-9d5e8517-f991-412b-ac07-3d0875bc7744.png)
 ![IPpoolCreate](https://user-images.githubusercontent.com/79364379/209168014-92ece1f1-7546-4977-bd18-8dc073853ed9.png)
 ![GetIpPools](https://user-images.githubusercontent.com/79364379/209168126-10c5ae32-1805-4cfd-9a7c-86d103b9d033.png)
 
