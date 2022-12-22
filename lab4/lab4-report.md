@@ -36,4 +36,6 @@
 ![ping1](https://user-images.githubusercontent.com/79364379/209168791-9f894998-103b-4bfa-b45e-dad0f082917f.png)
 
 9. Схема
-10. 
+
+![image](https://user-images.githubusercontent.com/79364379/209169929-e24ae502-39d2-492d-b7f0-93b802a4d26e.png)
+
