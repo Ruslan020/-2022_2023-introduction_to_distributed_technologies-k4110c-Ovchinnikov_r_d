@@ -1,3 +1,14 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: [FICT](https://fict.itmo.ru)
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
+Year: 2022/2023
+Group: K4110c
+Author: Ovchinnikov Ruslan Dmitrievich
+Lab: Lab1
+Date of create: 01.12.2022
+Date of finished: 00.12.2022
+
+# Ход работы
 1. Запускаем minikube c необходимыми для создания 2 нод и включения плагина calico параметрами
 
 ![createNodes](https://user-images.githubusercontent.com/79364379/209167029-f899fc0a-d1bb-41d8-8dfa-71d9db92610d.png)
